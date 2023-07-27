@@ -1,0 +1,47 @@
+{
+    "projects": [
+      
+      {
+        "date":"06/9/2022",
+        "title":"Snake_Game",
+        "description":"Developed a classic Snake game using HTML,CSS and JAVASCRIPT. The Snake game aimed to recreate the popular retro gaming experience and provide an enjoyable and challenging user interface.",
+        "url":"https://saap-ka-khel.netlify.app",
+        "imgSrc":"https://images.unsplash.com/photo-1555455955-c2e1feb6f81c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c25ha2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60"
+
+      },
+
+      {
+        "date": "07/1/2023",
+        "title": "TECH_King",
+        "description":"This project with a primary focus on developing a modern and visually appealing webpage using React. The project aimed to enhance my proficiency in React components and styling techniques while creating an interactive web experience.",
+        "url": "https://tech-kings.netlify.app",
+        "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+      },
+  
+
+      {
+        "date": "10/3/2023",
+        "title": "Sunshine",
+        "description":"Developed a weather forecasting application using React, leveraging data from a weather API. The application aimed to provide users with accurate and up-to-date weather information for their desired locations.",
+        "url": "https://thesunshine.netlify.app/",
+        "imgSrc": "https://images.unsplash.com/photo-1601134467661-3d775b999c8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=775&q=80"
+      },
+
+      {
+        "date": "10/5/2023",
+        "title": "Crypto's_king",
+        "description":"Developed a web application that allows users to track real-time information about various cryptocurrencies. The project relied on utilizing cryptocurrency APIs to fetch and display the data.",
+        "url": "https://cryptosking.netlify.app",
+        "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+      },
+  
+     
+      {
+        "date": "16/6/2023",
+        "title": "PORTFOLIO",
+        "description":"Developed a personal website portfolio to showcase my skills, experience, and projects. The portfolio aimed to create a professional online presence and highlight my expertise in web development and design.",
+        "url": "/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+      }
+    ]
+  }
